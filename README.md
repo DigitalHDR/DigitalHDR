@@ -1,7 +1,7 @@
 ### Bem vindo ao meu Github👋
 ***
 :sunglasses: ![image](https://img.shields.io/badge/-Desenvolvedor%20Front--end-blue)
-:earth_americas: :sunglasses: ![image](https://img.shields.io/badge/-Birigui--SP-green)
+:earth_americas: ![image](https://img.shields.io/badge/-Birigui--SP-green)
 ***
 
 ***
