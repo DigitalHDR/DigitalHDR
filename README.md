@@ -2,8 +2,8 @@
 ***
 
 ***
-![image](https://img.shields.io/badge/-Desenvolvedor%20Front--end-blue)
-![image](https://img.shields.io/badge/-Birigui--SP-green)
+![image](https://img.shields.io/badge/-Desenvolvedor%20Front--end-blue) <br>
+![image](https://img.shields.io/badge/-Birigui--SP-green) <br>
 ![image](https://img.shields.io/badge/Ingl%C3%AAs-B%C3%A1sico-yellowgreen)
 ![image](https://img.shields.io/badge/Japon%C3%AAs-B%C3%A1sico-yellowgreen)
 ***
