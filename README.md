@@ -37,8 +37,6 @@
 
 ##
 
-![image](https://img.shields.io/badge/-Desenvolvedor%20Front--end-blue) <br>
-
 ![image](https://img.shields.io/badge/Local-Birigui--SP-brightgreen) <br>
 
 ![image](https://img.shields.io/badge/Ingl%C3%AAs-B%C3%A1sico-brightgreen)
