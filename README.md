@@ -44,8 +44,6 @@
 ![image](https://img.shields.io/badge/Ingl%C3%AAs-B%C3%A1sico-brightgreen)
 ![image](https://img.shields.io/badge/Japon%C3%AAs-B%C3%A1sico-brightgreen) <br>
 
-![image](https://img.shields.io/badge/PhotoShop-B%C3%A1sico-brightgreen)
-![image](https://img.shields.io/badge/Premiere-B%C3%A1sico-brightgreen)
 ![image](https://img.shields.io/badge/Microsoft%20Word%20-B%C3%A1sico-brightgreen)
 ![image](https://img.shields.io/badge/Microsoft%20Excel-B%C3%A1sico-brightgreen)
 
