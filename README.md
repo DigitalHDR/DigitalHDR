@@ -36,14 +36,4 @@
 </div>
 
 ##
-
-![image](https://img.shields.io/badge/Local-Birigui--SP-brightgreen) <br>
-
-![image](https://img.shields.io/badge/Ingl%C3%AAs-B%C3%A1sico-brightgreen)
-![image](https://img.shields.io/badge/Japon%C3%AAs-B%C3%A1sico-brightgreen) <br>
-
-![image](https://img.shields.io/badge/Microsoft%20Word%20-B%C3%A1sico-brightgreen)
-![image](https://img.shields.io/badge/Microsoft%20Excel-B%C3%A1sico-brightgreen)
-
-##
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DigitalHDR&show_icons=true)
